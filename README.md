@@ -48,45 +48,34 @@ class SnehaChapala:
     fun_fact = "I love building useful projects."
 ---
 
-# ⚡ Skills
+## ⚡ Skills
 
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
----
-
-### 🛠️ Developer Tools
+### 🛠 Developer Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
-
----
 
 ### 🌱 Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react" />
 </p>
 
----
-
-### 🗄️ Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
----
 
 ### 🎨 Web Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
-
 ### 📊 Other Tools
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-```
